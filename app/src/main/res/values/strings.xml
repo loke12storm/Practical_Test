@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practical_Test</string>
+    <string name="spm">SPM</string>
+    <string name="o_level">O-level</string>
+    <string name="uec">UEC</string>
+    <string name="input_mark_SPM">Input your SPM Marks</string>
+    <string name="bm_SPM">Bahasa Malaysia</string>
+    <string name="eng_SPM">English</string>
+    <string name="math_SPM">Mathematics</string>
+    <string name="other_SPM">Amount of Credits</string>
+    <string name="button_submit">Submit</string>
+    <string name="button_submit">Submit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
